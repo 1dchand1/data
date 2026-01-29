@@ -1,5 +1,11 @@
 [
   {
+    "icao": "FDX",
+    "name": "FedEx Virtual Air Cargo",
+    "callsign": "FedEx",
+    "virtual": true
+  },
+  {
     "icao": "OCN",
     "name": "vOCN",
     "callsign": "Ocean",
